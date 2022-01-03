@@ -92,9 +92,6 @@
 # Congstar
 @@||app.congstar.de^$important
 
-# Corona Warn App
-@@||svc90.main.px.t-online.de^$important
-
 # Deskline
 @@||resc.deskline.net^$important
 
@@ -126,28 +123,6 @@
 
 # E.ON
 @@||eon.de^$important
-
-# Facebook
-@@||api.facebook.com^$important
-@@||creative.ak.fbcdn.net^$important
-@@||edge-mqtt.facebook.com^$important
-@@||external-lhr0-1.xx.fbcdn.net^$important
-@@||external-lhr1-1.xx.fbcdn.net^$important
-@@||external-lhr10-1.xx.fbcdn.net^$important
-@@||external-lhr2-1.xx.fbcdn.net^$important
-@@||external-lhr3-1.xx.fbcdn.net^$important
-@@||external-lhr4-1.xx.fbcdn.net^$important
-@@||external-lhr5-1.xx.fbcdn.net^$important
-@@||external-lhr6-1.xx.fbcdn.net^$important
-@@||external-lhr7-1.xx.fbcdn.net^$important
-@@||external-lhr8-1.xx.fbcdn.net^$important
-@@||external-lhr9-1.xx.fbcdn.net^$important
-@@||fbcdn-creative-a.akamaihd.net^$important
-@@||graph.facebook.com^$important
-@@||mqtt.c10r.facebook.com^$important
-@@||portal.fb.com^$important
-@@||scontent-lhr3-1.xx.fbcdn.net^$important
-@@||star.c10r.facebook.com^$important
 
 # Gardena
 @@||gardena.com^$important
@@ -204,10 +179,6 @@
 # Gravatar
 @@||gravatar.com^$important
 
-# Home Connect (Bosch / Siemens)
-@@||bshg.sc.omtrdc.net^$important
-@@||device-api.asnapieu.com^$important
-@@||remote-data.asnapieu.com^$important
 
 # Instagram
 @@||cdninstagram.com^$important
@@ -287,14 +258,6 @@
 @@||pxc.otto.de^$important
 @@||tp.otto.de^$important
 
-# PayPal
-@@||c.paypal.com^$important
-@@||epidm.edgesuite.net^$important
-@@||epl.paypal-communication.com^$important
-@@||images.ctfassets.net^$important
-@@||paypal.com^$important
-@@||paypalobjects.com^$important
-@@||t.paypal.com^$important
 
 # Pinterest
 @@||pinterest.com^$important
